@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "paella con chorizo"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
